@@ -1,3 +1,3 @@
 # Shining Star 
 
-Powered by Jykell and Minimal Mistakes
+Powered by Jykyll and Minimal Mistakes
