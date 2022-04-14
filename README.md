@@ -1,3 +1,3 @@
 # Shining Star 
 
-Powered by Jykyll and Minimal Mistakes
+Powered by Jekyll and Minimal Mistakes
