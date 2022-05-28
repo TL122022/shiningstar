@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Shine"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Shine"
+  bio    : ""
 
 defaults:
   # _posts
