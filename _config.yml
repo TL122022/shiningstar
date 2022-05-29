@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Shine"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Star.png"
   bio    : ""
 
 defaults:
