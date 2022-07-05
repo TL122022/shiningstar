@@ -9,4 +9,4 @@ title: "Quotes"
 
 <b>Forgiveness Quotes</b>
 
-1. Forgive others not because they deserve forgiveness, but because you deserve peace. - Mel Robbins. 
+1. Forgive others not because they deserve forgiveness, but because you deserve peace. - Mel Robbins. <br>
