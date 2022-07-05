@@ -9,4 +9,9 @@ title: "Quotes"
 
 <b>Forgiveness Quotes</b>
 
-1. Forgive others not because they deserve forgiveness, but because you deserve peace. - Mel Robbins. <br>
+1. Forgive others not because they deserve forgiveness, but because you deserve peace - Mel Robbins. <br>
+
+<b>Identity Quotes</b>
+
+1. To be yourself in a world that is constantly trying to make you someone else is the greatest accomplishment - Ralph Waldo Emerson. <br>
+2. You are your own teacher. Looking for teachers can't solve your own doubts. Investigate yourself to find the truth -- inside, not outside. Knowing yourself is most important - Ajahn Chah. <br>
