@@ -1,4 +1,6 @@
 ---
 permalink: /articles/
-title: "Articles"
+title: Articles
+layout: category
+taxonomy: articles
 ---
