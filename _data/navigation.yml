@@ -3,7 +3,7 @@ main:
     url: /quotes/
   - title: "Articles"
     url: /articles/
-  - title: "About"
-    url: /about/
   - title: "Songs"
     url: /songs/
+  - title: "About"
+    url: /about/
