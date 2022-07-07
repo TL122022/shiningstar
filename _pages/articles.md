@@ -7,6 +7,5 @@ taxonomy: articles
 
 <details open>
 <summary>All Articles</summary>
-<br>
-Ikigai
+<iframe src="/_posts/ikigai.html">Ikigai</iframe>
 </details>
