@@ -6,7 +6,7 @@ taxonomy: articles
 ---
 
 <details open>
-<summary>All Articles</summary>
+<summary style="background-color:powderblue;">All Articles</summary>
 <br>
 <a src="/articles/ikigai">Ikigai</a>
 </details>
