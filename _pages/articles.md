@@ -2,6 +2,9 @@
 permalink: /articles/
 title: Articles
 layout: category
+sidebar:
+  nav: "Articles"
+author_profile: false
 ---
 
 <details open>
