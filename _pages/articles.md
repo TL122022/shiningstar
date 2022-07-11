@@ -10,5 +10,5 @@ author_profile: false
 <details open>
 <summary style="color:navy;">All Articles</summary>
 <br>
-  <a src="/articles/ikigai">Ikigai</a>
+  <a src="/articles/ikigai.html">Ikigai</a>
 </details>
