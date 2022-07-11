@@ -1,14 +1,11 @@
 ---
 permalink: /articles/
 title: Articles
-layout: category
 sidebar:
   nav: "Articles"
 author_profile: false
 ---
 
-<details open>
-<summary style="color:navy;">All Articles</summary>
+All Articles
 <br>
-  <a src="/articles/ikigai.html">Ikigai</a>
-</details>
+  <a src="/articles/ikigai">Ikigai</a>
