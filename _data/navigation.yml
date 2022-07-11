@@ -7,3 +7,11 @@ main:
     url: /songs/
   - title: "About"
     url: /about/
+
+Articles:
+  - title: Articles
+    children:
+      - title: "Ikigai"
+        url: /articles/ikigai/
+      - title: "The Hero's Journey"
+        url: /articles/theherojourney/
