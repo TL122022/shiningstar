@@ -1,5 +1,5 @@
 ---
-permalink: /articles
+permalink: /articles/
 title: Articles
 sidebar:
   nav: "Articles"
