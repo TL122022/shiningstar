@@ -8,6 +8,4 @@ layout: category
 taxonomy: articles  
 ---
 
-All Articles
-<br>
-  <a src="/articles/ikigai">Ikigai</a>
+
