@@ -23,6 +23,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+words_per_minute: 240
 # Outputting
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
@@ -43,6 +44,11 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+analytics:
+  google:
+    tracking_id          :
+    anonymize_ip         : true
+
 
 # Plugins (previously gems:)
 plugins:
