@@ -23,7 +23,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-words_per_minute: 240
+words_per_minute: 110
 # Outputting
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
@@ -49,10 +49,10 @@ analytics:
   google:
     tracking_id          :
     anonymize_ip         : true
-search_full_content      : true
+search_full_content      : false
 search_provider          : lunr
 lunr:
-   search_within_pages   : true
+   search_within_pages   : false
 
 
 
