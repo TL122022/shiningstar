@@ -3,7 +3,7 @@ permalink: /songs/
 title: "Songs"
 ---
 
-<h3><i class="fa-regular fa-stars"></i>Calming Songs</h3>
+<h3><i class="fa fa-star-o"></i>Calming Songs</h3>
 
 <ol>
   <li><a href="https://www.youtube.com/watch?v=E-1sQNMBHjE" target="_blank">Feeling The Rain by MoreanP</a></li>
@@ -12,7 +12,7 @@ title: "Songs"
 </ol>
 
 <br>
-<h3><i class="fal fa-smile-beam"></i>Uplifting Songs</h3>
+<h3><i class="fa fa-smile-o"></i>Uplifting Songs</h3>
 
 <ol>
   <li><a href="https://www.youtube.com/watch?v=7maJOI3QMu0" target="_blank">River Flows In You by Yiruma</a></li>
