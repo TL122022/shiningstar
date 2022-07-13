@@ -48,6 +48,9 @@ analytics:
   google:
     tracking_id          :
     anonymize_ip         : true
+search_full_content      : true
+search_provider          : algolia 
+
 
 
 # Plugins (previously gems:)
