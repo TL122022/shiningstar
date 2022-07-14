@@ -77,11 +77,13 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: false
       related: true
+      sidebar:
+        nav: "Articles"
   # _pages
   - scope:
       path: "_pages"
