@@ -10,6 +10,7 @@ title: "Songs"
 <ol>
   <li><a href="https://www.youtube.com/watch?v=E-1sQNMBHjE" target="_blank">Feeling The Rain by MoreanP</a></li>
   <li><a href="https://www.youtube.com/watch?v=B-rK_GkgRAU" target="_blank">忆夏思乡 by MoreanP</a></li>
+  <li><a href="https://www.youtube.com/watch?v=-z-V24EK5t4" target="_blank">星辰大海 (钢琴版) by Attitune Music</a></li>
 
 </ol>
 
