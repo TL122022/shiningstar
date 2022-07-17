@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Shining Star
+logo: &logo "/assets/images/Star.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
        Time to Shine!
@@ -53,7 +54,7 @@ search_full_content      : false
 search_provider          : lunr
 lunr:
    search_within_pages   : false
-
+highlighter: rouge
 
 
 # Plugins (previously gems:)
