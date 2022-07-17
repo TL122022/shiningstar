@@ -55,6 +55,12 @@ lunr:
    search_within_pages   : false
 highlighter: rouge
 
+<style>
+::selection {
+  color: white;
+  background: #009dff;
+}
+</style>
 
 # Plugins (previously gems:)
 plugins:
