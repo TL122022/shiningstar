@@ -55,13 +55,6 @@ lunr:
    search_within_pages   : false
 highlighter: rouge
 
-<style>
-p::selection {
-  color: white;
-  background: #009dff;
-}
-</style>
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
