@@ -56,7 +56,7 @@ lunr:
 highlighter: rouge
 
 <style>
-::selection {
+p::selection {
   color: white;
   background: #009dff;
 }
