@@ -8,7 +8,7 @@ Shining Star provides uplifting quotes and articles on life skills to improve yo
 table {
   font-family: calibri, calibri;
   border-collapse: collapse;
-  border-radius:6px;
+  border-radius: 6px;
   width: 100%;
 }
 
