@@ -13,7 +13,7 @@ table {
 }
 
 td, th {
-  border: 1px solid #48494B;
+  border: 2px solid #48494B;
   text-align: left;
   padding: 8px;
 }
