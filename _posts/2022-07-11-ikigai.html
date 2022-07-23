@@ -33,6 +33,7 @@ Ikigai consists of what you love, what you are good at, what the world needs, an
   width: 150px;
   background-color: #555;
   color: #fff;
+  cursor: pointer;
   text-align: center;
   border-radius: 6px;
   padding: 5px 0;
@@ -41,7 +42,8 @@ Ikigai consists of what you love, what you are good at, what the world needs, an
   bottom: 125%;
   left: 50%;
   margin-left: -60px;
-  opacity: ;
+  opacity: 0.1s;
+  transition-property: height;
   transition: 0.4s;
 }
 
@@ -59,6 +61,7 @@ Ikigai consists of what you love, what you are good at, what the world needs, an
 
 .tooltip:hover .tooltiptext {
   visibility: visible;
+  height: 10px;
   transition: 0.4s;
   opcacity: 0.1s;
 }
